@@ -4,21 +4,20 @@ A simple WhatsApp User bot.
 
 ## Setup
 
-1. Deploy on Heroku
-   - Click [SCAN](https://qr-hazel-alpha.vercel.app/md) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
-   - You will get a session ID in WhatsApp, copy the ID only.
-   - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
-   - If you don't have a GitHub account, [sign up](https://github.com/join) now.
+ 1. Scan the QR and copy it
+ <br>
+<a href='https://qr-hazel-alpha.vercel.app/md' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+3. Now Deploy
+    <br>
+<a href='https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA)' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
    - [FORK](https://github.com/LUCKYSERSKBA/QUEENZIYA/fork) this repository.
-   - Now [DEPLOY](ttps://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA)
-   </h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
-    </a>
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
