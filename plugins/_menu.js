@@ -16,11 +16,12 @@ bot.addCommand(
     })
     const date = new Date()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						QUEENZIYA
 ╰────────────────╯
 
 ╭────────────────
 │ Prefix : ${PREFIX}
+│ onwer:  FDB LUCKY SER 
 │ User : ${message.pushName}
 │ Time : ${date.toLocaleTimeString()}
 │ Day : ${date.toLocaleString('en', { weekday: 'long' })}
@@ -86,9 +87,10 @@ bot.addCommand(
       }
     })
     const date = new Date()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ QUEENZIYA ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
+┃❃│onwer:  FDB LUCKY SER 
 ┃❃│ User : ${message.pushName}
 ┃❃│ Time : ${date.toLocaleTimeString()}
 ┃❃│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
