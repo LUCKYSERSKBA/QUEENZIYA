@@ -1,6 +1,7 @@
 {
   "name": "QUEENZIYA",
   "description": "",
+  "logo": "https://i.imgur.com/pLi4kQD.jpeg",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
