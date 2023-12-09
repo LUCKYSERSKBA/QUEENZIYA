@@ -10,7 +10,15 @@ A simple WhatsApp User bot.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
    - [FORK](https://github.com/LUCKYSERSKBA/QUEENZIYA/fork) this repository.
-   - Now [DEPLOY](ttps://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA).
+   - Now [DEPLOY](ttps://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA)
+   </h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/QUEENZIYA">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
+    </a>
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
