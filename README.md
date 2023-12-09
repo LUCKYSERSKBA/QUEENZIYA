@@ -9,16 +9,16 @@ A simple WhatsApp User bot.
    - You will get a session ID in WhatsApp, copy the ID only.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
-   - [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork) this repository.
+   - [FORK](https://github.com/LUCKYSERSKBA/QUEENZIYA/fork) this repository.
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
-   - Get [DATABASE_URL](https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get [DATABASE_URL](https://github.com/LUCKYSERSKBA/QUEENZIYA/wiki/DATABASE_URL). You'll need this while deploying.
    - Get [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
    - [DEPLOY](https://qr-hazel-alpha.vercel.app/koyeb) now.
-   - Enter [Environment Variables](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables).
+   - Enter [Environment Variables](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables). [Read More](https://github.com/LUCKYSERSKBA/QUEENZIYA/wiki/Environment_Variables).
    - Enter a name and click "Create Service."
 
 3. Deploy on VPS or PC (Example here as in Ubuntu)
@@ -48,7 +48,7 @@ A simple WhatsApp User bot.
 
        - Clone the repository and install packages:
 
-             git clone https://github.com/lyfe00011/whatsapp-bot-md botName
+             git clone https://github.com/LUCKYSERSKBA/QUEENZIYA botName
               cd botName
                yarn install --network-concurrency 1
 
@@ -56,7 +56,7 @@ A simple WhatsApp User bot.
 
              echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
              PREFIX = .
-             STICKER_PACKNAME = LyFE
+             STICKER_PACKNAME = QUEENZIYA
              ALWAYS_ONLINE = false
              RMBG_KEY = null
              LANGUAG = en
@@ -74,7 +74,7 @@ A simple WhatsApp User bot.
              DISABLE_START_MESSAGE = false
              PERSONAL_MESSAGE = null" > config.env
 
-    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
+    - [Read More](https://github.com/LUCKYSERSKBA/QUEENZIYA/wiki/Environment_Variables)
 
     - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
